@@ -1,0 +1,39 @@
+body {
+    font-family: "Coral Pixels", serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+    color: #CE1126;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+    color: #CE1126;
+    margin-bottom: 10px;
+}
+
+ul, ol{
+    list-style: none;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    align-items: center;
+}
+
+table {
+    margin: 20px auto;
+    background-color: #fff;
+    align-content: center;
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+        
+}
